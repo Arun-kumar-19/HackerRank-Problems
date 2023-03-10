@@ -51,5 +51,6 @@ console.log(min);
 //   }else if(min > miniMax[i]){
 //        min = miniMax[i];
 //   }
+
 // }
 // console.log(min,max);
